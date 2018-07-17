@@ -1,0 +1,5 @@
+Dear {college},
+My name is Nick and I am very interested in applying this fall to {college} to be a student! I attend Saline High School in Saline, Michigan, have a 3.87 GPA, and am on the honor roll. 
+I would love to have a T-shirt to represent {college}; can you send me one? My address is 358 Aberdeen Ct., Saline, MI. I wear a size large (L).
+Thank you,
+Nick
